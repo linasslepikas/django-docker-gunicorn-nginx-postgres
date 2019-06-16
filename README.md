@@ -1,4 +1,4 @@
-# django-docker-gunicorn-nginx-postgres
+# Deploying Django app using Docker
 Dockerizing Django app with Gunicorn, Nginx, Postgres
 
 https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/
